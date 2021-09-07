@@ -1,3 +1,5 @@
+ACTIVE WORK IN PROGRESS
+
 # StoryGenApp
 Story generation app that has a custom made model LSTM (not-pretrained) and has the ability to creatively develope short stories using Tensorflow in python. This also uses C++ to create an app interface that utilizes the python model.
 
